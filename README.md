@@ -15,12 +15,6 @@ Before you begin, ensure you have the following installed:
 - **MySQL**: [Download and install MySQL](https://www.mysql.com/downloads/)
 - **Git**: [Download and install Git](https://git-scm.com/)
 
-### Env
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=Password12
-DB_NAME=Schools
-DB_PORT=3306
 
 ## API Endpoints ##
 1. Add School
