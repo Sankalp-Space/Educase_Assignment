@@ -24,8 +24,11 @@ DB_PORT=3306
 
 ## API Endpoints ##
 1. Add School
+
 Endpoint: /addSchool
+
 Method: POST
+
 Payload:
 json
 {
@@ -37,14 +40,17 @@ json
 Description: Adds a new school to the database.
 
 3. List Schools
+
 Endpoint: /listSchools
-Method: GET
+
+Method: GET                
+
 Query Parameters:
-latitude: User's current latitude
-longitude: User's current longitude
+latitude: User's current latitude  , longitude: User's current longitude
+                                                     
 Example:
-Copy code
 GET /listSchools?latitude=37.7749&longitude=-122.4194
+
 Description: Fetches all schools and returns a sorted list based on proximity to the given latitude and longitude.
 
 ## Deployment ##
