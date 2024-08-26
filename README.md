@@ -36,7 +36,7 @@ json
 }
 Description: Adds a new school to the database.
 
-2. List Schools
+3. List Schools
 Endpoint: /listSchools
 Method: GET
 Query Parameters:
