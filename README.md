@@ -18,8 +18,8 @@ Before you begin, ensure you have the following installed:
 ### Env
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=your_password
-DB_NAME=school_management
+DB_PASSWORD=Password12
+DB_NAME=Schools
 DB_PORT=3306
 
 ## API Endpoints ##
